@@ -1,5 +1,5 @@
 // original source, fermat's spiral
-// https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=2&cad=rja&uact=8&ved=0ahUKEwijzqmxwPfTAhVrrlQKHRvoCE4QFggrMAE&url=http%3A%2F%2Fflyingpudding.com%2Fprojects%2Fflorets%2Fapplet%2F&usg=AFQjCNGDsMovy--J-xvVlU9oAfItCptkFQ
+// http://flyingpudding.com/projects/florets/applet/
  HScrollbar angleScrollbar, angleStepScrollbar, frameRateScrollbar, numDiscsScrollbar, stretchFactorScrollbar;
  HScrollbar fadeMinScrollbar, fadeMaxScrollbar, dotMinSizeScrollbar, dotMaxSizeScrollbar;
  RectToggleButton loopAngleButton, fadeButton; 
